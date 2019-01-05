@@ -1,0 +1,15 @@
+.main{
+	width: 1000px; margin: 0 auto; background: #fff;
+	 padding: 50px;
+}
+body {background: skyblue}
+
+.coloum{overflow: hidden; background-color: #AFCDC3;
+}
+.single-coloum{width: 31.333%; float: left; padding-left:  2%;
+}
+.coloum2{ overflow: hidden; background-color: #76732B;
+}
+.twocoloum{width: 45%; float: left;  padding-left: 5%;
+}
+img{padding-left: 400px;}

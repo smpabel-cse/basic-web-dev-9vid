@@ -1,0 +1,13 @@
+.main{
+	width: 1000px; margin: 0 auto; background: #fff;
+	 padding: 50px;
+}
+body {background: skyblue }
+#mypic{padding-left: 400px;}
+
+.menu{background: #366179; text-align: center;}
+.menu ul{margin: 0; list-style: none; padding: 0;}
+.menu li{display: inline-block;}
+.menu li a{display: block; padding: 15px; color: #FFF; text-decoration: none;}
+.menu li a:hover{background: #AE2472;}
+
